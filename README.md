@@ -91,6 +91,11 @@ pip install pycocotools
 # req sudo
 sudo make
 cp -r pycocotools ~/training_resources/tf-object-detection-tutorial/Tensorflow/models/research/
+# AAH
+#### If you run into numpy errors do latter ###
+pip uninstall pycocotools
+# then
+python setup.py install
 # check that is there in the dest
 cd ~/training_resources/tf-object-detection-tutorial/Tensorflow/models/research/
 ls pycocotools/
