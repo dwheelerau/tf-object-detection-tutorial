@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00148.jpg</filename>
+	<path>/home/dpidave/training_resources/tf-object-detection-tutorial/Tensorflow/workspace/training_demo/images/00148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>428</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>26</ymin>
+			<xmax>695</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
