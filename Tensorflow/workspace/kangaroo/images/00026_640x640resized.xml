@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00026_640x640resized.jpg</filename>
+	<path>/home/dpidave/training_resources/tf-object-detection-tutorial/Tensorflow/workspace/kangaroo/images/00026_640x640resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>396</ymin>
+			<xmax>536</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>
